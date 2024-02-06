@@ -1,7 +1,7 @@
 # Marp Slides Template
 
 [Use this template!](https://github.com/codebytes/marp-slides-template/generate)
-
+  
 Create a Marp presentation site that can be built and published on [GitHub Pages] using this minimal template. The site features:
 
 - Marp integration
